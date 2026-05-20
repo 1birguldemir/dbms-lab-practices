@@ -1,0 +1,8 @@
+# SQL Server Management Studio
+*.ssmssqlproj
+*.ssmssln
+*.rpt
+*.bak
+*.trn
+*.rdl
+*.log
